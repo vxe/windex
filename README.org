@@ -1,6 +1,6 @@
 * windex
 
-FIXME: my new application.
+Surviving in Windows with the help of clojure.
 
 ** Installation
 
